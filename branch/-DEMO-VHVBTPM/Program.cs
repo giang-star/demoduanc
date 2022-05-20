@@ -190,10 +190,6 @@ namespace _DEMO_VHVBTPM
             Program.ktramin(a, n);
             Program.xoa(a, n);
             Console.ReadKey();
-
-
-
-
         }
     }
 
